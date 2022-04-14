@@ -1,5 +1,5 @@
-print ("MADE BY GAMEREMILIANOFF")
-loadstring(game:HttpGet("https://github.com/GamerEmilianoFF/idk/blob/main/Anti%20slow%2024", true))()
+print ("SCRIPT MADE BY GAMEREMILIANOFF")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerEmilianoFF/idk/main/Anti%20slow%2024", true))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerEmilianoFF/anti-lag-v2-fps/main/Dhm",true))();
 
