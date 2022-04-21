@@ -5,14 +5,3 @@ loadstring(game:HttpGet("https://pastebin.com/raw/zKjj0TQD", true))()
 
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Hyotinhofofinho/s1mple/main/LIXO"))()
 
-local InfiniteJumpEnabled = true
-
-game:GetService("UserInputService").JumpRequest:connect(function()
-
-	if InfiniteJumpEnabled then
-
-		game:GetService"Players".LocalPlayer.Character:FindFirstChildOfClass'Humanoid':ChangeState("Jumping")
-
-	end
-
-end)
